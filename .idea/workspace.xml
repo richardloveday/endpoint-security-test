@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2373411-50f4-4bd8-8740-c4746d388c21" name="Default Changelist" comment="" />
+    <list default="true" id="a2373411-50f4-4bd8-8740-c4746d388c21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +17,12 @@
     <session id="657445419">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -36,13 +39,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="516" />
+          <entry key="JAVA" value="1253" />
           <entry key="XML" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="516" />
+          <entry key="java" value="1253" />
           <entry key="xml" value="72" />
         </counts>
       </usages-collector>
@@ -70,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="436">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,6 +95,9 @@
     <dirStrings>
       <dir>C:\Gitworkspace\endpoint security test\src\main\resources</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -144,16 +150,18 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-1928" />
+    <option name="y" value="2" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,16 +199,31 @@
               <item name="endpoint security test" type="b2602c69:ProjectViewProjectNode" />
               <item name="endpoint security test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="uk" type="462c0819:PsiDirectoryNode" />
+              <item name="co" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="endpoint security test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="endpoint security test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="uk" type="462c0819:PsiDirectoryNode" />
+              <item name="co" type="462c0819:PsiDirectoryNode" />
+              <item name="semanticintegration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="endpoint security test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="endpoint security test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="endpoint security test" type="b2602c69:ProjectViewProjectNode" />
               <item name="endpoint security test" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="endpoint security test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="endpoint security test" type="b2602c69:ProjectViewProjectNode" />
@@ -215,15 +238,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540570750600" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540921117732" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber-archetype/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -244,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.EndPointTest.testHostPostEndpoints">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -253,6 +275,74 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndPointTest.testBookingGetEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="endpoint-security-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.semanticintegration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
+      <option name="METHOD_NAME" value="testBookingGetEndpoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndPointTest.testBookingPostEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="endpoint-security-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.semanticintegration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
+      <option name="METHOD_NAME" value="testBookingPostEndpoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndPointTest.testHostGetEndPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="endpoint-security-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.semanticintegration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
+      <option name="METHOD_NAME" value="testHostGetEndPoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndPointTest.testHostPostEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="endpoint-security-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.semanticintegration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
+      <option name="METHOD_NAME" value="testHostPostEndpoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -288,8 +378,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.EndPointTest.testendpoints" />
+      <item itemvalue="JUnit.EndPointTest.testBookingGetEndpoints" />
+      <item itemvalue="JUnit.EndPointTest.testBookingPostEndpoints" />
+      <item itemvalue="JUnit.EndPointTest.testHostGetEndPoints" />
+      <item itemvalue="JUnit.EndPointTest.testHostPostEndpoints" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EndPointTest.testHostPostEndpoints" />
+        <item itemvalue="JUnit.EndPointTest.testHostGetEndPoints" />
+        <item itemvalue="JUnit.EndPointTest.testBookingPostEndpoints" />
+        <item itemvalue="JUnit.EndPointTest.testBookingGetEndpoints" />
         <item itemvalue="JUnit.EndPointTest.testendpoints" />
       </list>
     </recent_temporary>
@@ -307,37 +408,53 @@
       <workItem from="1540463785982" duration="6163000" />
       <workItem from="1540544544862" duration="9766000" />
       <workItem from="1540808453390" duration="626000" />
-      <workItem from="1540820316204" duration="341000" />
+      <workItem from="1540820316204" duration="2121000" />
+      <workItem from="1540834124917" duration="674000" />
+      <workItem from="1540893484559" duration="1365000" />
+      <workItem from="1540912105012" duration="5886000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EndPointTest_testendpoints - 2018.10.26 at 12h 54m 12s.xml">
+    <history-entry file="EndPointTest_testendpoints - 2018.10.30 at 15h 13m 08s.xml">
       <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testendpoints - 2018.10.26 at 12h 59m 53s.xml">
+    <history-entry file="EndPointTest_testendpoints - 2018.10.30 at 15h 13m 19s.xml">
       <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testendpoints - 2018.10.26 at 13h 07m 46s.xml">
-      <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testBookingGetEndpoints - 2018.10.30 at 16h 42m 35s.xml">
+      <configuration name="EndPointTest.testBookingGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testendpoints - 2018.10.26 at 13h 08m 14s.xml">
-      <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testBookingGetEndpoints - 2018.10.30 at 16h 42m 59s.xml">
+      <configuration name="EndPointTest.testBookingGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testendpoints - 2018.10.26 at 13h 10m 00s.xml">
-      <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testBookingGetEndpoints - 2018.10.30 at 16h 43m 14s.xml">
+      <configuration name="EndPointTest.testBookingGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testendpoints - 2018.10.26 at 13h 12m 06s.xml">
-      <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testBookingPostEndpoints - 2018.10.30 at 16h 55m 02s.xml">
+      <configuration name="EndPointTest.testBookingPostEndpoints" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EndPointTest_testHostGetEndPoints - 2018.10.30 at 17h 05m 56s.xml">
+      <configuration name="EndPointTest.testHostGetEndPoints" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EndPointTest_testHostPostEndpoints - 2018.10.30 at 17h 16m 11s.xml">
+      <configuration name="EndPointTest.testHostPostEndpoints" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EndPointTest_testHostPostEndpoints - 2018.10.30 at 17h 32m 51s.xml">
+      <configuration name="EndPointTest.testHostPostEndpoints" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EndPointTest_testHostPostEndpoints - 2018.10.30 at 17h 33m 44s.xml">
+      <configuration name="EndPointTest.testHostPostEndpoints" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16896000" />
+    <option name="totallyTimeSpent" value="26601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-1928" y="2" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32751676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -346,25 +463,25 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.41076487" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.10725894" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.2590604" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.07835821" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -403,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="436">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
