@@ -33,8 +33,19 @@ public class EndPointTest {
             "/hostServiceBankDetails","/hostServiceRemoveBankDetails","/hostServiceAddRiskAssertment","/hostServiceDeleteRiskAssert","/hostServiceWriteRiskInfo",
             "/signChildrenAct","/hostServiceAddMainCarer","/hostServiceAddReferenceProperty","/hostServiceSaveBusInfo","/hostServiceSendProfileUpdate"};
 
-    private String [] adminGetEndPoints = {"/adminControlPanel","/adminGetComments","/adminGetUserControlView","/adminLoadReference","/adminLoadComsFiles",
+    private String [] adminGetEndpoints = {"/adminControlPanel","/adminGetComments","/adminGetUserControlView","/adminLoadReference","/adminLoadComsFiles",
             "/adminLoadFiles","/adminServiceSearchByRange","/adminServiceGetGuests","/adminServiceGetHostPaymentsByBooking"};
+
+    private String [] adminPostEndpoints = {"/adminAddHomeVisit","/adminWriteDbsInfo","/adminWriteComments","/adminWriteRegistrationAction","/adminSendEmail",
+            "/adminSendComms","/adminSendApplicationReviewed","/adminHostFamilyAccepted","/adminHostFamilyUnAccepted","/adminServiceActiveClient",
+            "/adminServiceWriteHostPaymentInfo","/adminServiceDeleteHostPaymentInfo"};
+
+    private String [] agentGetEndpoints = {"/agentServiceLoadFromServer","/agentServiceGetTnCPdf"};
+    private String [] agentPostEndpoints = {"/agentServiceWriteAgentInfo","/agentServiceRegistration","/agentServiceSetEnquiry"};
+
+    private String [] parentGetEndpoints = {"/parentSetGroup","/parentGetGroup"};
+
+    private String [] eeControllerGetEndpoints = {"/pageConfig","/userInfo","/showFile","/isDocumentSigned"}; //"/pageConfig" removed 405 ?
 
 
     @Test
@@ -66,7 +77,6 @@ public class EndPointTest {
 
             System.out.println(endpoint);
         }
-
     }
 
     @Test
@@ -81,7 +91,6 @@ public class EndPointTest {
 
             System.out.println(endpoint);
         }
-
     }
 
     @Test
@@ -94,8 +103,92 @@ public class EndPointTest {
                     when().
                     post(path + endpoint);
 
+            System.out.println(endpoint);
+        }
+    }
+
+    @Test
+    public void testAdminGetEndpoints(){
+        for(String endpoint:adminGetEndpoints) {
+            given().
+                    redirects().follow(false).
+                    expect().
+                    statusCode(302).
+                    when().
+                    get(path + endpoint);
 
             System.out.println(endpoint);
+        }
+    }
+
+    @Test
+    public void testAdminPostEndpoints() {
+        for(String endpoint:adminPostEndpoints) {
+            given().
+                    redirects().follow(false).
+                    expect().
+                    statusCode(302).
+                    when().
+                    post(path + endpoint);
+
+            System.out.println(endpoint);
+        }
+    }
+
+    @Test
+    public void testAgentGetEndpoints() {
+        for(String endpoint:agentGetEndpoints) {
+            given().
+                    redirects().follow(false).
+                    expect().
+                    statusCode(302).
+                    when().
+                    get(path + endpoint);
+
+            System.out.println(endpoint);
+        }
+    }
+
+    @Test
+    public void testAgentPostEndpoints() {
+        for(String endpoint:agentPostEndpoints) {
+            given().
+                    redirects().follow(false).
+                    expect().
+                    statusCode(302).
+                    when().
+                    post(path + endpoint);
+
+            System.out.println(endpoint);
+        }
+    }
+
+    @Test
+    public void testParentGetEndpoints() {
+        for(String endpoint:parentGetEndpoints) {
+            given().
+                    redirects().follow(false).
+                    expect().
+                    statusCode(302).
+                    when().
+                    get(path + endpoint);
+
+            System.out.println(endpoint);
+        }
+    }
+
+    @Test
+    public void testEEcontrollerGetEndpoints() {
+        for(String endpoint:eeControllerGetEndpoints) {
+            System.out.println(endpoint);
+            given().
+                    redirects().follow(false).
+                    expect().
+                    statusCode(302).
+                    when().
+                    get(path + endpoint);
+
+
         }
     }
 

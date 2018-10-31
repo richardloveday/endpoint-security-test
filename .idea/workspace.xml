@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2373411-50f4-4bd8-8740-c4746d388c21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26bcadf6a0de67d7d388f6cd3be9bc2935ddfec7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26bcadf6a0de67d7d388f6cd3be9bc2935ddfec7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java" afterDir="false" />
     </list>
@@ -17,12 +18,12 @@
     <session id="657445419">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -31,7 +32,7 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="2" />
           <entry key="http" value="3" />
           <entry key="java" value="2" />
           <entry key="xml" value="1" />
@@ -39,19 +40,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1253" />
+          <entry key="JAVA" value="1834" />
           <entry key="XML" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1253" />
+          <entry key="java" value="1834" />
           <entry key="xml" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="JAVA" value="2" />
           <entry key="Scratch" value="3" />
           <entry key="XML" value="1" />
@@ -61,20 +62,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
+            <state relative-caret-position="499">
               <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="462">
+              <caret line="175" column="41" lean-forward="true" selection-start-line="175" selection-start-column="41" selection-end-line="175" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,10 +151,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="2" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-1654" />
+    <option name="y" value="76" />
+    <option name="width" value="1536" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -238,14 +241,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540921117732" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541006397449" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber-archetype/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -266,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EndPointTest.testHostPostEndpoints">
+  <component name="RunManager" selected="JUnit.EndPointTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -279,7 +280,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndPointTest.testBookingGetEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EndPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="endpoint-security-test" />
       <extension name="coverage">
         <pattern>
@@ -289,14 +290,29 @@
       </extension>
       <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
       <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
-      <option name="METHOD_NAME" value="testBookingGetEndpoints" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndPointTest.testAgentGetEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="endpoint-security-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.semanticintegration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
+      <option name="METHOD_NAME" value="testAgentGetEndpoints" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndPointTest.testBookingPostEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EndPointTest.testAgentPostEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="endpoint-security-test" />
       <extension name="coverage">
         <pattern>
@@ -306,14 +322,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
       <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
-      <option name="METHOD_NAME" value="testBookingPostEndpoints" />
+      <option name="METHOD_NAME" value="testAgentPostEndpoints" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndPointTest.testHostGetEndPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EndPointTest.testEEcontrollerGetEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="endpoint-security-test" />
       <extension name="coverage">
         <pattern>
@@ -323,14 +339,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
       <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
-      <option name="METHOD_NAME" value="testHostGetEndPoints" />
+      <option name="METHOD_NAME" value="testEEcontrollerGetEndpoints" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndPointTest.testHostPostEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EndPointTest.testParentGetEndpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="endpoint-security-test" />
       <extension name="coverage">
         <pattern>
@@ -340,24 +356,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
       <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
-      <option name="METHOD_NAME" value="testHostPostEndpoints" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EndPointTest.testendpoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="endpoint-security-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.co.semanticintegration.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="uk.co.semanticintegration" />
-      <option name="MAIN_CLASS_NAME" value="uk.co.semanticintegration.EndPointTest" />
-      <option name="METHOD_NAME" value="testendpoints" />
+      <option name="METHOD_NAME" value="testParentGetEndpoints" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -379,19 +378,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.EndPointTest.testendpoints" />
-      <item itemvalue="JUnit.EndPointTest.testBookingGetEndpoints" />
-      <item itemvalue="JUnit.EndPointTest.testBookingPostEndpoints" />
-      <item itemvalue="JUnit.EndPointTest.testHostGetEndPoints" />
-      <item itemvalue="JUnit.EndPointTest.testHostPostEndpoints" />
+      <item itemvalue="JUnit.EndPointTest.testAgentGetEndpoints" />
+      <item itemvalue="JUnit.EndPointTest.testAgentPostEndpoints" />
+      <item itemvalue="JUnit.EndPointTest.testParentGetEndpoints" />
+      <item itemvalue="JUnit.EndPointTest.testEEcontrollerGetEndpoints" />
+      <item itemvalue="JUnit.EndPointTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EndPointTest.testHostPostEndpoints" />
-        <item itemvalue="JUnit.EndPointTest.testHostGetEndPoints" />
-        <item itemvalue="JUnit.EndPointTest.testBookingPostEndpoints" />
-        <item itemvalue="JUnit.EndPointTest.testBookingGetEndpoints" />
-        <item itemvalue="JUnit.EndPointTest.testendpoints" />
+        <item itemvalue="JUnit.EndPointTest" />
+        <item itemvalue="JUnit.EndPointTest.testEEcontrollerGetEndpoints" />
+        <item itemvalue="JUnit.EndPointTest.testParentGetEndpoints" />
+        <item itemvalue="JUnit.EndPointTest.testAgentPostEndpoints" />
+        <item itemvalue="JUnit.EndPointTest.testAgentGetEndpoints" />
       </list>
     </recent_temporary>
   </component>
@@ -411,50 +410,50 @@
       <workItem from="1540820316204" duration="2121000" />
       <workItem from="1540834124917" duration="674000" />
       <workItem from="1540893484559" duration="1365000" />
-      <workItem from="1540912105012" duration="5886000" />
+      <workItem from="1540912105012" duration="6408000" />
+      <workItem from="1541000317373" duration="4854000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EndPointTest_testendpoints - 2018.10.30 at 15h 13m 08s.xml">
-      <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 16h 57m 01s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testendpoints - 2018.10.30 at 15h 13m 19s.xml">
-      <configuration name="EndPointTest.testendpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 00m 36s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testBookingGetEndpoints - 2018.10.30 at 16h 42m 35s.xml">
-      <configuration name="EndPointTest.testBookingGetEndpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 02m 04s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testBookingGetEndpoints - 2018.10.30 at 16h 42m 59s.xml">
-      <configuration name="EndPointTest.testBookingGetEndpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 02m 28s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testBookingGetEndpoints - 2018.10.30 at 16h 43m 14s.xml">
-      <configuration name="EndPointTest.testBookingGetEndpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 03m 53s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testBookingPostEndpoints - 2018.10.30 at 16h 55m 02s.xml">
-      <configuration name="EndPointTest.testBookingPostEndpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 04m 38s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testHostGetEndPoints - 2018.10.30 at 17h 05m 56s.xml">
-      <configuration name="EndPointTest.testHostGetEndPoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 06m 49s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testHostPostEndpoints - 2018.10.30 at 17h 16m 11s.xml">
-      <configuration name="EndPointTest.testHostPostEndpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 07m 48s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testHostPostEndpoints - 2018.10.30 at 17h 32m 51s.xml">
-      <configuration name="EndPointTest.testHostPostEndpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest_testEEcontrollerGetEndpoints - 2018.10.31 at 17h 10m 31s.xml">
+      <configuration name="EndPointTest.testEEcontrollerGetEndpoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EndPointTest_testHostPostEndpoints - 2018.10.30 at 17h 33m 44s.xml">
-      <configuration name="EndPointTest.testHostPostEndpoints" configurationId="JUnit" />
+    <history-entry file="EndPointTest - 2018.10.31 at 17h 11m 32s.xml">
+      <configuration name="EndPointTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26601000" />
+    <option name="totallyTimeSpent" value="31977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="2" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -463,14 +462,14 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.10725894" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24485373" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -511,20 +510,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        <state relative-caret-position="294">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/uk/co/semanticintegration/EndPointTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="462">
+          <caret line="175" column="41" lean-forward="true" selection-start-line="175" selection-start-column="41" selection-end-line="175" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
         </state>
       </provider>
     </entry>
