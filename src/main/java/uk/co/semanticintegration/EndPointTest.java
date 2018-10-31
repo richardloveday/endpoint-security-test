@@ -45,7 +45,10 @@ public class EndPointTest {
 
     private String [] parentGetEndpoints = {"/parentSetGroup","/parentGetGroup"};
 
-    private String [] eeControllerGetEndpoints = {"/pageConfig","/userInfo","/showFile","/isDocumentSigned"}; //"/pageConfig" removed 405 ?
+    private String [] eeControllerGetEndpoints = {"/pageConfig","/userInfo","/showFile","/isDocumentSigned"};
+
+    private String [] eeControllerPostEndpoints = {"/addESignedDocument","/addESignedDocumentById","/uploadFile","/removeFile"};
+
 
 
     @Test
@@ -187,8 +190,19 @@ public class EndPointTest {
                     statusCode(302).
                     when().
                     get(path + endpoint);
+        }
+    }
 
-
+    @Test
+    public void testEEcontrollerPostEndpoints() {
+        for (String endpoint : eeControllerPostEndpoints) {
+            System.out.println(endpoint);
+            given().
+                    redirects().follow(false).
+                    expect().
+                    statusCode(302).
+                    when().
+                    post(path + endpoint);
         }
     }
 

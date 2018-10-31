@@ -1,13 +1,24 @@
 
-V
-squid:S106b"9Replace this use of System.out or System.err by a logger.(õæĞ´8Úı¥°ì,
-V
-squid:S1063"9Replace this use of System.out or System.err by a logger.(õæĞ´8äê¨°ì,
-V
-squid:S106C"9Replace this use of System.out or System.err by a logger.(õæĞ´8ÚÑ¨°ì,
-Ssquid:S1068$"5Remove this unused "adminGetEndPoints" private field.(àò¼Ò8²Ù¼°ì,
-V
-squid:S106R"9Replace this use of System.out or System.err by a logger.(õæĞ´8ù³¨°ì,
-Isquid:S1068	"&Remove this unused "id" private field.(˜€¶Äøÿÿÿÿ8ûÑéë,
 dsquid:S1075
 "ARefactor your code to get this URI from a customizable parameter.(æ¦ïõıÿÿÿÿ8¶°úë,
+W
+squid:S106°"9Replace this use of System.out or System.err by a logger.(õæĞ´8¥ºøÖì,
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(õæĞ´8äê¨°ì,
+W
+squid:S106”"9Replace this use of System.out or System.err by a logger.(õæĞ´8şÃàÖì,
+Isquid:S1068	"&Remove this unused "id" private field.(˜€¶Äøÿÿÿÿ8ûÑéë,
+W
+squid:S106·"9Replace this use of System.out or System.err by a logger.(õæĞ´8Á¤áØì,
+W
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(õæĞ´8ÂÛëÖì,
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(õæĞ´8ÚÑ¨°ì,
+V
+squid:S106\"9Replace this use of System.out or System.err by a logger.(õæĞ´8ù³¨°ì,
+V
+squid:S106j"9Replace this use of System.out or System.err by a logger.(õæĞ´8Úı¥°ì,
+W
+squid:S106†"9Replace this use of System.out or System.err by a logger.(õæĞ´8ıàÈÖì,
+V
+squid:S106x"9Replace this use of System.out or System.err by a logger.(õæĞ´8õ¼®Öì,
